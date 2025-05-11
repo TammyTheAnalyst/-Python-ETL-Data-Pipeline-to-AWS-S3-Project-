@@ -4,14 +4,14 @@
 
 **Project Description:**  
 
-This is a complete, end-to-end data engineering project built using Python. 
+- This is a complete, end-to-end data engineering project built using Python. 
 
-It walks through the full ETL (Extract, Transform, Load) process — starting with extracting a raw CSV file, 
+- It walks through the full ETL (Extract, Transform, Load) process — starting with extracting a raw CSV file, 
 cleaning and transforming the data using pandas, and storing the cleaned output in two formats: a local CSV and an AWS S3 bucket.
 
-A SQLite version of the data is also generated to simulate real-world scenarios where SQL inspection and lightweight databases are used for validation.
+- A SQLite version of the data is also generated to simulate real-world scenarios where SQL inspection and lightweight databases are used for validation.
 
-This project simulates a typical workflow in modern data teams to turn messy source data into clean, accessible datasets for analytics, reporting, or machine learning. It serves as a foundational example of building and managing a working data pipeline from start to finish.
+- This project simulates a typical workflow in modern data teams to turn messy source data into clean, accessible datasets for analytics, reporting, or machine learning. It serves as a foundational example of building and managing a working data pipeline from start to finish.
 
 ✅ This is my first fully structured data engineering project to showcase ETL skills, cloud integration, version control, and project organization — all in one pipeline.
 
