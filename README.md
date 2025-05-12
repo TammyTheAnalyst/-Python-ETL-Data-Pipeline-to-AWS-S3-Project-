@@ -73,8 +73,8 @@ data-engineering-mini-etl-project/
 |------|---------------------------------------------------|------------|
 | 1    | Create GitHub repo and README                     | ✅ Done     |
 | 2    | Set up folder structure                           | ✅ Done     |
-| 3    | Create Trello board with color-coded task cards   | ⏳ In Progress |
-| 4    | Select real-world CSV dataset                     | 🔲 Not Started |
+| 3    | Create Trello board with color-coded task cards   | ✅ Done     |
+| 4    | Select real-world CSV dataset                     | ✅ Done     |
 | 5    | Write Python extract script (read raw CSV)        | 🔲 Not Started |
 | 6    | Clean and transform data (pandas)                 | 🔲 Not Started |
 | 7    | Save cleaned data to local CSV                    | 🔲 Not Started |
